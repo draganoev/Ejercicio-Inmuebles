@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1682865747 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"Funciones.h"
+
+1682723495 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\direccion.h
+
+1682865747 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\main.cpp
+	<iostream>
+	"Casa.h"
+	"Departamento.h"
+	"Local.h"
+	"Terreno.h"
+
+1682722641 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\funciones.cpp
+	<iostream>
+
+1682722641 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\funciones.h
+
+1682865747 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\inmueble.cpp
+	<iostream>
+	"Inmueble.h"
+
+1682728473 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1682725166 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\fecha.h
+
+1682725387 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\inmueble.h
+	"Direccion.h"
+	"Fecha.h"
+
+1682865747 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\casa.cpp
+	<iostream>
+	"Casa.h"
+
+1682725927 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\casa.h
+	"Inmueble.h"
+
+1682864715 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\departamento.cpp
+	<iostream>
+	"Departamento.h"
+
+1682864695 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\departamento.h
+	"Inmueble.h"
+
+1682865015 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\local.cpp
+	<iostream>
+	"Local.h"
+
+1682864848 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\local.h
+	"Inmueble.h"
+
+1682865473 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\terreno.cpp
+	<iostream>
+	"Terreno.h"
+	"Inmueble.h"
+
+1682865468 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio inmobiliarias\terreno.h
+	"Inmueble.h"
+
